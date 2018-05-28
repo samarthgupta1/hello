@@ -1,0 +1,6 @@
+my first git repository
+ git init  to initialize repository
+ git status to check status of repository anytime
+ git add to tell git to track your changes
+ git commit to tell git to create a check point
+ git push to upload to cloud(github)
